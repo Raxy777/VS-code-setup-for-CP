@@ -1,5 +1,5 @@
 # VS-code-setup-for-CP
-This guide will help you set up a C++ development environment in Visual Studio Code using the provided 'tasks.json' and 'run.bat' files. This setup will compile and run your C++ code, redirect input from 'input.txt', compare the output with 'expected.txt', and clean up after execution.
+This guide will help you set up a C++ development environment in Visual Studio Code using the provided `tasks.json` and `run.bat` files. This setup will compile and run your C++ code, redirect input from `input.txt`, compare the output with `expected.txt`, and clean up after execution.
 <br>
 ## Ensure your workspace folder has the following structure:
 1. input.txt<br>
